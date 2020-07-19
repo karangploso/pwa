@@ -1,0 +1,53 @@
+{
+  "name": "karlos.id",
+  "short_name": "karlos.id",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "orientation": "portrait",
+  "Scope": "https://www.karlos.id",
+  "start_url": "https://www.karlos.id",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-HSFLWMLaAmY/XxQdamwOSMI/AAAAAAAAAyQ/qDqcZH2HcEAoH099BDxuPxegl0rk0ZhrgCNcBGAsYHQ/s72/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-pY7zZuNdSDQ/XxQda7JVJ1I/AAAAAAAAAyY/zy4fkLPjJeAZ4yzkx1sMPHxxlIkqKZCcwCNcBGAsYHQ/s96/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-tm9qAFlYmd4/XxQdY5qTK1I/AAAAAAAAAx8/NBsKRikN6KA-F7GMitfXDqw2XaCrunmCwCNcBGAsYHQ/s128/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-t5abbGL9O1E/XxQdY2xuFgI/AAAAAAAAAyA/ilKnehOEREQesgtWmX3oWoFLy-1gsiXcACNcBGAsYHQ/s144/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-Ckr3RR2FAx0/XxQdYzs7SxI/AAAAAAAAAyE/B1NQ9VaWbE8EAsDUYZrLno6QfhajhDH-ACNcBGAsYHQ/s152/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-OnTASQfnmcc/XxQdZr8VbqI/AAAAAAAAAyM/zr0t8xlxuaAzpVjI10lQAZa4Urbok8wAACNcBGAsYHQ/s192/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-1-Cbh5ytviE/XxQdaLUnL8I/AAAAAAAAAyI/SlYkPlEuWbw-E6WV-BeS6KQpHmWbG5pUACNcBGAsYHQ/s384/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-aL0IVYntRhQ/XxQdahqR_YI/AAAAAAAAAyU/5iHt8WpUQ-QUtVTcmE-dXJpFVOI6WJLlQCNcBGAsYHQ/s512/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
+}
