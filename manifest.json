@@ -4,7 +4,6 @@
   "theme_color": "#2196f3",
   "background_color": "#fff",
   "display": "standalone",
-  "orientation": "portrait",
   "start_url": "https://www.karlos.id",
   "prefer_related_applications": "false",
   "icons": [
@@ -56,7 +55,6 @@
       "type": "image/png",
       "purpose": "maskable any"
     }
-  ],
-  "splash_pages": null
+  ]
 }
 
