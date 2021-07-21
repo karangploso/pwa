@@ -41,7 +41,8 @@
     {
       "src": "https://1.bp.blogspot.com/-OnTASQfnmcc/XxQdZr8VbqI/AAAAAAAAAyM/zr0t8xlxuaAzpVjI10lQAZa4Urbok8wAACNcBGAsYHQ/s192/icon-192x192.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable any"
     },
     {
       "src": "https://1.bp.blogspot.com/-1-Cbh5ytviE/XxQdaLUnL8I/AAAAAAAAAyI/SlYkPlEuWbw-E6WV-BeS6KQpHmWbG5pUACNcBGAsYHQ/s384/icon-384x384.png",
@@ -51,7 +52,8 @@
     {
       "src": "https://1.bp.blogspot.com/-aL0IVYntRhQ/XxQdahqR_YI/AAAAAAAAAyU/5iHt8WpUQ-QUtVTcmE-dXJpFVOI6WJLlQCNcBGAsYHQ/s512/icon-512x512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable any"
     }
   ],
   "splash_pages": null
