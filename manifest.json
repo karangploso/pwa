@@ -2,7 +2,6 @@
     "theme_color": "#f50404",
     "background_color": "#fff",
     "display": "standalone",
-    "scope": "/",
     "start_url": "https://www.karlos.id",
     "prefer_related_applications": "false",
     "name": "Karlos.id Aplikasi Toko Online",
