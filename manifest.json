@@ -1,60 +1,37 @@
 {
-  "name": "karlos.id",
-  "short_name": "karlos.id",
-  "theme_color": "#2196f3",
-  "background_color": "#fff",
-  "display": "standalone",
-  "start_url": "https://www.karlos.id",
-  "prefer_related_applications": "false",
-  "icons": [
-    {
-      "src": "https://1.bp.blogspot.com/-HSFLWMLaAmY/XxQdamwOSMI/AAAAAAAAAyQ/qDqcZH2HcEAoH099BDxuPxegl0rk0ZhrgCNcBGAsYHQ/s72/icon-72x72.png",
-      "sizes": "72x72",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-pY7zZuNdSDQ/XxQda7JVJ1I/AAAAAAAAAyY/zy4fkLPjJeAZ4yzkx1sMPHxxlIkqKZCcwCNcBGAsYHQ/s96/icon-96x96.png",
-      "sizes": "96x96",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-tm9qAFlYmd4/XxQdY5qTK1I/AAAAAAAAAx8/NBsKRikN6KA-F7GMitfXDqw2XaCrunmCwCNcBGAsYHQ/s128/icon-128x128.png",
-      "sizes": "128x128",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-t5abbGL9O1E/XxQdY2xuFgI/AAAAAAAAAyA/ilKnehOEREQesgtWmX3oWoFLy-1gsiXcACNcBGAsYHQ/s144/icon-144x144.png",
-      "sizes": "144x144",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-Ckr3RR2FAx0/XxQdYzs7SxI/AAAAAAAAAyE/B1NQ9VaWbE8EAsDUYZrLno6QfhajhDH-ACNcBGAsYHQ/s152/icon-152x152.png",
-      "sizes": "152x152",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-OnTASQfnmcc/XxQdZr8VbqI/AAAAAAAAAyM/zr0t8xlxuaAzpVjI10lQAZa4Urbok8wAACNcBGAsYHQ/s192/icon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-1-Cbh5ytviE/XxQdaLUnL8I/AAAAAAAAAyI/SlYkPlEuWbw-E6WV-BeS6KQpHmWbG5pUACNcBGAsYHQ/s384/icon-384x384.png",
-      "sizes": "384x384",
-      "type": "image/png",
-      "purpose": "maskable any"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-aL0IVYntRhQ/XxQdahqR_YI/AAAAAAAAAyU/5iHt8WpUQ-QUtVTcmE-dXJpFVOI6WJLlQCNcBGAsYHQ/s512/icon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable any"
-    }
-  ]
+    "theme_color": "#f50404",
+    "background_color": "#fff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "https://www.karlos.id",
+	"prefer_related_applications": "false",
+    "name": "Karlos.id Aplikasi Toko Online",
+    "short_name": "Karlos.id",
+    "description": "Aplikasi Web UMKM seKecamatan Karangploso, Malang",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-4_jsMlK-ex0/YPjMkKvqfSI/AAAAAAAABJw/PsWbFAB4TLQ8D2SvXJobK_wwINKzeeDxACNcBGAsYHQ/s0/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-nObw5w-CVl0/YPjMkdrc7fI/AAAAAAAABJ0/9loumIwkHqgM8Hmc83aqBNA4jIrlJrruQCNcBGAsYHQ/s0/icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-L24H49-cUQQ/YPjMkjrLSvI/AAAAAAAABJ4/qaOWwxetvLIHw9gw0QHwS2uMfJAGfmxTACNcBGAsYHQ/s0/icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-7eeyYGBwUDc/YPjMlEYgkRI/AAAAAAAABJ8/_bcN9dF0w_EFgVzIlFMNpAXUofUcpBs2QCNcBGAsYHQ/s0/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
 }
-
