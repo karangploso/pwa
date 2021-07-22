@@ -4,7 +4,7 @@
     "display": "standalone",
     "scope": "/",
     "start_url": "https://www.karlos.id",
-	"prefer_related_applications": "false",
+    "prefer_related_applications": "false",
     "name": "Karlos.id Aplikasi Toko Online",
     "short_name": "Karlos.id",
     "description": "Aplikasi Web UMKM seKecamatan Karangploso, Malang",
